@@ -3,7 +3,6 @@ We’re a team from the IT Master program at JMU University, and we’re excited
 Our game focuses on easy navigation way and fun interactions. in the game After pressing the start button, you can walk, run, climb buildings, and use navigation techniques like the map and compass to find your destination easily. 
 To prevent motion sickness, we propose a virtual nose and tunneling that limit your view range, all customizable through a handy menu. This allows users to tweak settings for their best experience. 
 
-Check out our video below to see it in action—we hope you enjoy watching it as much as we enjoyed creating it
 
 # SS24 3DUI Project Template: VR Parkour Game
 
