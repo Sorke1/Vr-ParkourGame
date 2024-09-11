@@ -1,5 +1,4 @@
 Welcome to our VR Parkour Game! 
-
 We’re a team from the IT Master program at JMU University, and we’re excited to share our 3D UI course project made with Unity.
 Our game focuses on easy navigation way and fun interactions. in the game After pressing the start button, you can walk, run, climb buildings, and use navigation techniques like the map and compass to find your destination easily. 
 To prevent motion sickness, we propose a virtual nose and tunneling that limit your view range, all customizable through a handy menu. This allows users to tweak settings for their best experience. 
@@ -8,7 +7,9 @@ Check out our video below to see it in action—we hope you enjoy watching it as
 
 # SS24 3DUI Project Template: VR Parkour Game
 
-
+<img width="1440" alt="Screenshot 2024-09-11 at 11 22 10" src="https://github.com/user-attachments/assets/08ca5f1e-0528-470c-b9b9-cbe9348ad73f">
+<img width="1440" alt="Screenshot 2024-09-11 at 11 22 26" src="https://github.com/user-attachments/assets/9c6fe6d8-caa8-4c0f-98a1-ebced95615b3">
+<img width="1440" alt="Screenshot 2024-09-11 at 11 22 58" src="https://github.com/user-attachments/assets/e3823984-ea82-4d1d-a093-4d945ed9c29b">
 # Cloning Procedure
 
 - See [Exercise Week 07 Task 1](https://lectures.hci.informatik.uni-wuerzburg.de/ss24/3dui/exercises/07-exercises-navigation-2-handout.html)
